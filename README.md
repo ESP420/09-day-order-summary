@@ -34,14 +34,20 @@ Los usuarios deberían poder:
 Diseño adaptado para cualquier tipo de pantalla del dispositivo:
 
 ![](./images/mobile.png)
+
+| Desktop                                                                                                                                                      | Mobile                                                                                                                                                       |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| ![1706573135985](https://file+.vscode-resource.vscode-cdn.net/c%3A/portafolio/100DaysOfProjects/09-day-order-summary-component/image/README/1706573135985.png) | ![1706573153098](https://file+.vscode-resource.vscode-cdn.net/c%3A/portafolio/100DaysOfProjects/09-day-order-summary-component/image/README/1706573153098.png) |
+
+
 ![](./images/desktop.png)
 
 ### Enlaces
 
 El proyecto se encuentra alojado en un hosting gratuito(Netlify):
 
-- [Pagina web]()
-- [Codigo fuente]()
+- [Pagina web](https://09-day-order-summary.vercel.app/)
+- [Codigo fuente](https://github.com/ESP420/09-day-order-summary)
 
 ## Proceso de trabajo
 
