@@ -37,7 +37,7 @@ Diseño adaptado para cualquier tipo de pantalla del dispositivo:
 
 | Desktop                                                                                                                                                      | Mobile                                                                                                                                                       |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| ![1706573135985](https://github.com/ESP420/09-day-order-summary/blob/main/image/README/1706573135985.png) | ![1706573153098](https://github.com/ESP420/09-day-order-summary/image/blob/main/README/1706573153098.png) |
+| ![1706573135985](https://github.com/ESP420/09-day-order-summary/blob/main/image/README/1706573135985.png) | ![1706573153098](https://github.com/ESP420/09-day-order-summary/blob/main/image/README/1706573153098.png) |
 
 ![](./images/desktop.png)
 
