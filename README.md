@@ -37,7 +37,7 @@ Diseño adaptado para cualquier tipo de pantalla del dispositivo:
 
 | Desktop                                                                                                                                                      | Mobile                                                                                                                                                       |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| ![1706573135985](https://file+.vscode-resource.vscode-cdn.net/c%3A/portafolio/100DaysOfProjects/09-day-order-summary-component/image/README/1706573135985.png) | ![1706573153098](https://file+.vscode-resource.vscode-cdn.net/c%3A/portafolio/100DaysOfProjects/09-day-order-summary-component/image/README/1706573153098.png) |
+| ![1706573135985](https://github.com/ESP420/09-day-order-summary/image/README/1706573135985.png) | ![1706573153098](https://github.com/ESP420/09-day-order-summary/image/README/1706573153098.png) |
 
 
 ![](./images/desktop.png)
