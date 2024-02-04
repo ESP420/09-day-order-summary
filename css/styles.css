@@ -178,6 +178,7 @@ body {
 }
 
 .plan__change:hover {
+    text-decoration: none;
     color: var(--Bright-blue-70);
 }
 
